@@ -8,7 +8,7 @@ Welcome to the MaRS Club Recruitment Coding Set! This repository contains a cura
 
 - [Overview](#overview)
 - [Code Breakdown](#code-breakdown)
-- [Learning Experiance]
+- [Learning Experiance](#Learning-experiance])
 - [Resources](#resources)
 
 ## Overview
@@ -23,10 +23,14 @@ This set includes:
 
 Each code is commented to a extent to be understandable with good use variable naming.
 
+## Learning Experiance
+
+I want to break it down into 2 parts. The first part for which I actually needed help which includes the basic linux codes/bash script and Behaviour Trees. Actually these exercises increased my depth in this field and I felt a sense of accomplishment of learning something new. As far as the other codes are concerened I already had the required knowledge and ideas for doing it, so not much of a learning in that. Overall, I had a fun experience which sparked a increasing interest for me in the field of robotics and coding. 
+
 ## Resources
 
 - Stack Overflow (Quanternion derivation)
-- Youtube (Gimal lock and quanternion system)
+- Youtube (Gimal lock and quanternion system, Behaviour trees)
 - Wikipedia (Morse Code Symbols)
 - Git tutorials (https://www.codedex.io/git-github)
 
