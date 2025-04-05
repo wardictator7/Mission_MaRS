@@ -4,7 +4,7 @@ MaRS Recruitment
 
 Welcome to the MaRS Club Recruitment Coding Set! This repository contains a curated list of coding problems categorized by difficulty to help you prepare for easy navigation. This helped me gain an insight on the work performed by the software team and just scaled my interests to next level in robotics.
 
-A small truth...I am uploading the files in last day. So, I wasnot able to learn to upload the files from terminal. Instead I directly uploaded from the GitHub website. 
+A small truth...I am uploading the files in last day. So, I wasnot able to learn to upload the files from terminal. Instead I directly uploaded the file in the GitHub website. 
 
 ## Contents
 
