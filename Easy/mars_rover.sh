@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # =============================================
-# Bash Script: Automated Rover Mission Tasks
+# Bash Script
 # =============================================
 
 # Task 1: Create 'rover_mission' directory and navigate into it
